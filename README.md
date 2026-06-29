@@ -30,7 +30,7 @@ class Dorothy:
         self.role       = "Trainee Data Scientist @ InfoObjects Inc."
         self.education  = [
             "B.Tech CS AI/ML — UEM Jaipur (2022–2026)",
-            "BS Data Science — IIT Madras (2023–2027)"
+            "BS Data Science — IIT Madras (2025–2028)"
         ]
         self.research   = "IEEE Published | IEMECON 2025 | Scopus-Indexed"
         self.building   = ["RAG Systems", "LangChain Agents", "NLP Pipelines", "Multimodal ML"]
