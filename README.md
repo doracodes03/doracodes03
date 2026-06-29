@@ -1,24 +1,22 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dorothy%20Biswas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20NLP%20%7C%20GenAI%20%7C%20IEEE%20Researcher&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dorothy%20Biswas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AIML%20Engineer%2C%20NLP%20Enthusiast%2C%20data%20Science%2C%20research%2C%20etc&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%40+InfoObjects+Inc.;NLP+%7C+RAG+%7C+LangChain+%7C+GenAI+Builder;IEEE+Published+Researcher+%F0%9F%93%84;Dual+Degree+%E2%80%94+IIT+Madras+%2B+UEM+Jaipur;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AIML+Engineer;NLP+Enthusiast;Data+Science;Research;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
 <!-- Visitor & Profile Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=doracodes03&style=for-the-badge&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/doracodes03?style=for-the-badge&color=purple&logo=github)](https://github.com/doracodes03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dorothy-biswas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dorothy-biswas06/)
 [![Gmail](https://img.shields.io/badge/Gmail-biswasdorothy.db%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswasdorothy.db@gmail.com)
 
 </div>
 
 ---
-
-## 🧠 About Me
 
 ## 🧠 About Me
 
@@ -174,7 +172,7 @@ class Dorothy:
 
 ### 💜 Let's connect and build something intelligent together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dorothy-biswas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorothy-biswas06/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doracodes03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswasdorothy.db@gmail.com)
 
