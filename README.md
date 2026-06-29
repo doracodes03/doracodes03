@@ -20,18 +20,21 @@
 
 ## 🧠 About Me
 
+## 🧠 About Me
+
 ```python
 class Dorothy:
     def __init__(self):
-        self.name        = "Dorothy Biswas"
-        self.role        = "Trainee Data Scientist @ InfoObjects Inc."
-        self.education   = ["B.Tech CS AI/ML — UEM Jaipur (2022–2026)",
-                            "BS Data Science — IIT Madras (2023–2027)"]
-        self.research    = "IEEE Published | IEMECON 2025 | Scopus-Indexed"
-        self.building    = ["RAG Systems", "LangChain Agents", "NLP Pipelines",
-                            "Multimodal ML"]
-        self.learning    = ["Advanced RAG", "LangChain", "GenAI", "Advanced ML"]
-        self.superpower  = "Turning raw data into intelligent, real-world systems"
+        self.name       = "Dorothy Biswas"
+        self.role       = "Trainee Data Scientist @ InfoObjects Inc."
+        self.education  = [
+            "B.Tech CS AI/ML — UEM Jaipur (2022–2026)",
+            "BS Data Science — IIT Madras (2023–2027)"
+        ]
+        self.research   = "IEEE Published | IEMECON 2025 | Scopus-Indexed"
+        self.building   = ["RAG Systems", "LangChain Agents", "NLP Pipelines", "Multimodal ML"]
+        self.learning   = ["Advanced RAG", "LangChain", "GenAI", "Advanced ML"]
+        self.superpower = "Turning raw data into intelligent, real-world systems"
 
     def __str__(self):
         return "AI/ML Engineer | NLP Researcher | GenAI Builder"
