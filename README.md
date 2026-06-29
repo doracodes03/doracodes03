@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dorothy%20Biswas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AIML%20Engineer%2C%20NLP%20Enthusiast%2C%20data%20Science%2C%20research%2C%20etc&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dorothy%20Biswas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AIML%20Engineer%20%7C%20NLP%20Enthusiast%20%7C%20AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=55&descSize=14" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AIML+Engineer;NLP+Enthusiast;AI+Researcher;Data+Scientist;Python+Developer;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AIML+Engineer;NLP+Enthusiast;Data+Science;Research;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
